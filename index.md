@@ -13,7 +13,7 @@ nav_order: 1
 
 <img src="assets/img/titleSlide.png" alt="Workshop Title Slide" width="100%">
 
-# Welcome to DASH: The Data Analysis Support Hub Webinars
+# Welcome to the 2021-2022 Data Analysis Support Hub Webinars
 
 DASH workshops help registrants with data analysis and visualization by providing training for software programs and coding languages including Excel, LaTeX, Python, R, and SPSS.
 

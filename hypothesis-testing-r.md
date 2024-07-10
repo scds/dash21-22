@@ -1,30 +1,28 @@
 ---
 layout: default
-title: Hypothesis Test, Univariate, and Bivariate Analysis with R
-nav_order: 2024.02131630
+title: Hypothesis Testing and Regression Analysis in R
+nav_order: 2022.03301500
 ---
 
-<img src="assets/img/HypothesisTestBanner.png" alt="Workshop Title Slide" width="100%">
+<img src="assets/img/hypothesis-testing-r.png" alt="Workshop Title Slide" width="100%">
 
-# Hypothesis Test, Univariate, and Bivariate Analysis with R
+# Hypothesis Testing and Regression Analysis in R
 
-In this beginner-level session, participants will learn the fundamentals of conducting hypothesis tests and performing univariate analysis using the R statistical software. This session will cover essential aspects of hypothesis testing, data preparation, and exploratory univariate analysis. Prior expertise in hypothesis testing or R may not be required.
+In this workshop, participants will learn how to conduct hypothesis tests in R, along with correlation and regression analysis. The session will include t test, paired t test, ANOVA, regression, correlation, and covariance. The workshop is open to all who wish to learn about running data analysis in R, however, it is essential to have some prior basic knowledge of the software. This session will be interactive, so bring your laptops and follow along with the facilitator, DASH Support Assistant Simran Kaur. The DASH team looks forward to seeing you at the workshop!
+
+<!-- ## Facilitator Bio -->
+
+<!-- Missing bio -->
 
 ## Workshop Preparation 
 
-R is required, and the relevant data may be provided prior to or during the event.
+Access the workshop files here:
+- [crop.data.csv](../data/crop.data.csv)
+- [Workshop3.R](../data/Workshop3.R)
 
-## Facilitator Bio
-
-Humayun Kabir is a master’s student in Health Research Methodology at the Department of Health Research Methods, Evidence, and Impact at McMaster University. He provides support to the quantitative research data at the DASH, McMaster University Library.
+An installation of [R](https://www.r-project.org/) and [RStudio](https://posit.co/downloads/) will also be needed.
 
 ## Workshop Recording
 
-<iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/06bf0b7e-525f-4385-9a3e-2bb287419b34/public"></iframe>
-[View original here.](https://echo360.ca/media/06bf0b7e-525f-4385-9a3e-2bb287419b34/public)
-
-## Workshop Slides
-
-<embed src="assets/docs/hypothesisTestSlides.pdf" style="border:none;" width="100%" height="466px">
-
-[Download as PDF.](assets/docs/hypothesisTestSlides.pdf)
+<iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/79e2ba7b-531d-4e4f-b788-cbb765197458/public"></iframe>
+[View original here.](https://echo360.ca/media/79e2ba7b-531d-4e4f-b788-cbb765197458/public)

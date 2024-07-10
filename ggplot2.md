@@ -1,30 +1,27 @@
 ---
 layout: default
-title: Hypothesis Test, Univariate, and Bivariate Analysis with R
-nav_order: 2024.02131630
+title: Data Visualization in R using ggplot2
+nav_order: 2022.04191330
 ---
 
-<img src="assets/img/HypothesisTestBanner.png" alt="Workshop Title Slide" width="100%">
+<img src="assets/img/ggplot2.png" alt="Workshop Title Slide" width="100%">
 
-# Hypothesis Test, Univariate, and Bivariate Analysis with R
+# Data Visualization in R using ggplot2
 
-In this beginner-level session, participants will learn the fundamentals of conducting hypothesis tests and performing univariate analysis using the R statistical software. This session will cover essential aspects of hypothesis testing, data preparation, and exploratory univariate analysis. Prior expertise in hypothesis testing or R may not be required.
+Learn how you can create publication-quality figures using ggplot2. We will cover plotting options for one- and two-dimensional continuous and categorical data and explore options for customizing your figure’s appearance. 
 
 ## Workshop Preparation 
 
-R is required, and the relevant data may be provided prior to or during the event.
+Access the workshop files here:
+- [workshop-file-ggplot2.R](workshop-file-ggplot2.R)
 
-## Facilitator Bio
+An installation of [R](https://www.r-project.org/) and [RStudio](https://posit.co/downloads/) will also be needed.
 
-Humayun Kabir is a master’s student in Health Research Methodology at the Department of Health Research Methods, Evidence, and Impact at McMaster University. He provides support to the quantitative research data at the DASH, McMaster University Library.
+<!-- ## Facilitator Bio -->
+
+<!-- Missing bio -->
 
 ## Workshop Recording
 
-<iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/06bf0b7e-525f-4385-9a3e-2bb287419b34/public"></iframe>
-[View original here.](https://echo360.ca/media/06bf0b7e-525f-4385-9a3e-2bb287419b34/public)
-
-## Workshop Slides
-
-<embed src="assets/docs/hypothesisTestSlides.pdf" style="border:none;" width="100%" height="466px">
-
-[Download as PDF.](assets/docs/hypothesisTestSlides.pdf)
+<iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/66dbdd5f-1e35-4675-bc09-a5e7d4e7f0e1/public"></iframe>
+[View original here.](https://echo360.ca/media/66dbdd5f-1e35-4675-bc09-a5e7d4e7f0e1/public)

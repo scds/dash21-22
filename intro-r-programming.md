@@ -1,30 +1,17 @@
 ---
 layout: default
-title: Hypothesis Test, Univariate, and Bivariate Analysis with R
-nav_order: 2024.02131630
+title: Intro to R Programming
+nav_order: 2022.04111330
 ---
 
-<img src="assets/img/HypothesisTestBanner.png" alt="Workshop Title Slide" width="100%">
+<img src="assets/img/intro-r-programming.png" alt="Workshop Title Slide" width="100%">
 
-# Hypothesis Test, Univariate, and Bivariate Analysis with R
+# Intro to R Programming
 
-In this beginner-level session, participants will learn the fundamentals of conducting hypothesis tests and performing univariate analysis using the R statistical software. This session will cover essential aspects of hypothesis testing, data preparation, and exploratory univariate analysis. Prior expertise in hypothesis testing or R may not be required.
+R has a powerful suite of high-level statistical functions, but sometimes you need lower-level control over the functionality of your script. In this workshop, you will learn how to write programs in R using functions and control flow. We will cover functions, conditional blocks, loops, and debugging.
 
-## Workshop Preparation 
+**The recording and materials for this workshop are available here:** <https://learn.scds.ca/intro-r/>
 
-R is required, and the relevant data may be provided prior to or during the event.
+<!-- ## Facilitator Bio -->
 
-## Facilitator Bio
-
-Humayun Kabir is a master’s student in Health Research Methodology at the Department of Health Research Methods, Evidence, and Impact at McMaster University. He provides support to the quantitative research data at the DASH, McMaster University Library.
-
-## Workshop Recording
-
-<iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/06bf0b7e-525f-4385-9a3e-2bb287419b34/public"></iframe>
-[View original here.](https://echo360.ca/media/06bf0b7e-525f-4385-9a3e-2bb287419b34/public)
-
-## Workshop Slides
-
-<embed src="assets/docs/hypothesisTestSlides.pdf" style="border:none;" width="100%" height="466px">
-
-[Download as PDF.](assets/docs/hypothesisTestSlides.pdf)
+<!-- Missing bio -->
