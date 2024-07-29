@@ -1,7 +1,7 @@
 # 2021-22 DASH Webinars
 Materials for the **2021-22 DASH Webinars**.
 
-This repository contains workshop files, as well as files used to create the [workshop webpage](https://learn.scds.ca/dash22-23) with GitHub Pages. 
+This repository contains workshop files, as well as files used to create the [workshop webpage](https://learn.scds.ca/dash21-22) with GitHub Pages. 
 
 Contributions by the following individuals: 
 - Workshop content created by DASH: Data Analysis Support Hub
